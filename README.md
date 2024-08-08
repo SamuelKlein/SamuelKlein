@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=samuelklein&count_private=true&include_all_commits=true&show_icons=true&theme=dark&custom_title=samuelklein%27s%20GitHub%20stats" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=samuelklein&count_private=false&include_all_commits=true&show_icons=true&theme=dark&custom_title=samuelklein%27s%20GitHub%20stats" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelklein&theme=dark&show_icons=true&exclude_repo=Obsidian-Notes,nmap,vvv-scanner,samuelklein.github.io,MyWechat,blog,intranet-api,resume,notes" />
 </p>
 <!--
